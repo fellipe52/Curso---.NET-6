@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bZceDVXQ03qA+MPdytuPIUp2Adi25O4TtUZ9jH2KLw+MrztPd5fPTqWs4wWqLyAqwGj3Mi7dO/IXcBInDfGjHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fellipe.souza\\OneDrive - Online Applications\\documentos\\Projetos Pessoais\\Curso\\Web API ASP .NET Core Essencial (.NET 6)\\Project\\Demo\\WebApi_Demo\\WebApi_Demo\\WebApi_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fellipe.souza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
