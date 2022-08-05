@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fellipe.souza\\OneDrive - Online Applications\\documentos\\Projetos Pessoais\\Curso\\Web API ASP .NET Core Essencial (.NET 6)\\Project\\ApiCatalogo Controller\\APICatalogo\\APICatalogo.csproj": {}
+    "C:\\Curso---.NET-6\\Web API ASP .NET Core Essencial (.NET 6)\\Project\\ApiCatalogo Controller\\APICatalogo\\APICatalogo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fellipe.souza\\OneDrive - Online Applications\\documentos\\Projetos Pessoais\\Curso\\Web API ASP .NET Core Essencial (.NET 6)\\Project\\ApiCatalogo Controller\\APICatalogo\\APICatalogo.csproj": {
+    "C:\\Curso---.NET-6\\Web API ASP .NET Core Essencial (.NET 6)\\Project\\ApiCatalogo Controller\\APICatalogo\\APICatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fellipe.souza\\OneDrive - Online Applications\\documentos\\Projetos Pessoais\\Curso\\Web API ASP .NET Core Essencial (.NET 6)\\Project\\ApiCatalogo Controller\\APICatalogo\\APICatalogo.csproj",
+        "projectUniqueName": "C:\\Curso---.NET-6\\Web API ASP .NET Core Essencial (.NET 6)\\Project\\ApiCatalogo Controller\\APICatalogo\\APICatalogo.csproj",
         "projectName": "APICatalogo",
-        "projectPath": "C:\\Users\\fellipe.souza\\OneDrive - Online Applications\\documentos\\Projetos Pessoais\\Curso\\Web API ASP .NET Core Essencial (.NET 6)\\Project\\ApiCatalogo Controller\\APICatalogo\\APICatalogo.csproj",
+        "projectPath": "C:\\Curso---.NET-6\\Web API ASP .NET Core Essencial (.NET 6)\\Project\\ApiCatalogo Controller\\APICatalogo\\APICatalogo.csproj",
         "packagesPath": "C:\\Users\\fellipe.souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fellipe.souza\\OneDrive - Online Applications\\documentos\\Projetos Pessoais\\Curso\\Web API ASP .NET Core Essencial (.NET 6)\\Project\\ApiCatalogo Controller\\APICatalogo\\obj\\",
+        "outputPath": "C:\\Curso---.NET-6\\Web API ASP .NET Core Essencial (.NET 6)\\Project\\ApiCatalogo Controller\\APICatalogo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

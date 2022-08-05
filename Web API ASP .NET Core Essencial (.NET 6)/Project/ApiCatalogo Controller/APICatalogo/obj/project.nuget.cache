@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZfUDa7U5OYyeeYqcxeP2xQ20qc9ukLWqQrepI56kfVhvEsgW6i4JG2SYxMDIfFOyJRH48bHGLNJr6JEdahlquQ==",
+  "dgSpecHash": "1B6z13b45CvNXejxP2PGmI9NuiC+IAtRdTatGZoy/8QvU7uywbIXm4Kc4VLz5tneuKoIgycVkjSjvb25YV6YbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fellipe.souza\\OneDrive - Online Applications\\documentos\\Projetos Pessoais\\Curso\\Web API ASP .NET Core Essencial (.NET 6)\\Project\\ApiCatalogo Controller\\APICatalogo\\APICatalogo.csproj",
+  "projectFilePath": "C:\\Curso---.NET-6\\Web API ASP .NET Core Essencial (.NET 6)\\Project\\ApiCatalogo Controller\\APICatalogo\\APICatalogo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fellipe.souza\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\fellipe.souza\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
